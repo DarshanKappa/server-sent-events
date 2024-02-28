@@ -25,7 +25,6 @@ const clientList = {
 
 
 let clients = [];
-let facts = [];
 
 // Redis Consumers
 factConsumer(clients);
